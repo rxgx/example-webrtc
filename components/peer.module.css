@@ -1,0 +1,17 @@
+.root {
+    width: 2em;
+    height: 2em;
+    border: 1px solid yellow;
+    color: white;
+    display: flex;
+}
+
+.root div {
+    min-width: 100%;
+    min-height: 100%;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    display: block;
+    font-size: .75em;
+}
